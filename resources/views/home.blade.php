@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.app',['page_title' => 'Another one bite the dust'])
 
 @section('content')
 <div class="container">
